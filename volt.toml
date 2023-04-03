@@ -1,8 +1,8 @@
 name = "Wild pastel"
-version = "0.1.2"
 display-name = "Wild pastel"
-author = "Azartiny Mor"
-repository = "https://github.com/Azartiny/wild_pastel"
 description = "A Wild pastel theme for Lapce"
+version = "0.1.2"
+author = "Azartiny"
+repository = "https://github.com/Azartiny/wild_pastel"
 color-themes = ["wild_pastel.toml"]
 
