@@ -1,0 +1,8 @@
+name = "Wild2"
+version = "0.1.0"
+display-name = "Wild2"
+author = "Azartiny"
+repository = "https://github.com/Azartiny/wild_pastel"
+description = "A Wild pastel v2 theme for Lapce"
+color-themes = ["wild2.toml"]
+
