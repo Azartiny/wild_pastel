@@ -1,2 +1,2 @@
-# wild_pastel
-Lapce theme "Wild pastel" [dark]
+# wild2
+Lapce theme "Wild2" [dark]
